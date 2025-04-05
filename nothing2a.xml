@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_hardware_nothing" path="hardware/nothing" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-21" />
+  <project name="nothing-Pacman/android_device_nothing_Pacman" path="device/nothing/Pacman" remote="github" revision="lineage-21" />
+  <project name="nothing-Pacman/android_device_nothing_Pacman-kernel" path="kernel/nothing/Pacman" remote="github" revision="lineage-21" />
+  <project name="nothing-Pacman/android_vendor_nothing_Pacman" path="vendor/nothing" remote="github" revision="lineage-21" />
+</manifest>
