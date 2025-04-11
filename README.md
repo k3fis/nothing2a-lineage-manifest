@@ -1,1 +1,1 @@
-Do NOT forget to put this in local_manifests folder and rename it to Pacman.xml before doing repo sync.
+Do NOT forget to put this in local_manifests folder before doing repo sync.
