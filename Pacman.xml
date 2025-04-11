@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--credits to kingkwahli for example-->
+<manifest>
+
+    <remote name="vendor"
+            fetch="https://github.com"
+            revision="lineage-21" />
+	
+    <remote name="device"
+            fetch="https://github.com"
+            revision="lineage-21"/>
+
+    <remote name="kernel"
+            fetch="https://github.com"
+            revision="lineage-21"/>
+
+    <!--Device Trees-->
+    <project path="device/nothing/Pacman" name="nothing-Pacman/android_device_nothing_Pacman" remote="device" />
+
+
+    <!--Kernel-->
+    <project path="kernel/nothing/Pacman" name="nothing-Pacman/android_device_nothing_Pacman-kernel" remote="kernel" />
+
+
+    <!-- Vendor folders -->
+    <project path="vendor/nothing/Pacman" name="nothing-Pacman/android_vendor_nothing_Pacman" remote="vendor" />
+</manifest>
