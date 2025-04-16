@@ -1,1 +1,1 @@
-Do NOT forget to put this in local_manifests folder and rename it to Pacman.xml before doing repo sync.
+this manifest based on OLD repository, DO NOT use it.
